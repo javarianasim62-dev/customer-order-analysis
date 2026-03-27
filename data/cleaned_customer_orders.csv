@@ -1,0 +1,101 @@
+orderid,orderdate,customerid,customername,region,product,category,sales,profit,quantity
+1,2024-02-04,101,Ali Khan,North,Mobile,Technology,432.58,106.41,4
+2,2024-02-24,102,Sara Ahmed,South,Mobile,Technology,184.06,48.36,6
+3,2024-05-31,103,John Smith,East,Chair,Furniture,1084.06,127.38,5
+4,2024-03-14,102,Sara Ahmed,South,Chair,Furniture,1869.04,479.12,7
+5,2024-06-13,102,Sara Ahmed,North,Chair,Furniture,1086.86,115.51,10
+6,2024-02-13,104,Fatima Noor,East,Desk,Furniture,195.13,41.95,6
+7,2024-01-21,102,Sara Ahmed,West,Mobile,Technology,925.96,165.65,4
+8,2024-04-20,103,John Smith,West,Desk,Furniture,382.0,89.54,3
+9,2024-05-15,101,Ali Khan,West,Printer,Office Supplies,1097.93,273.19,5
+10,2024-05-09,105,Ahmed Hassan,West,Chair,Furniture,951.09,219.78,4
+11,2024-05-13,105,Ahmed Hassan,East,Printer,Office Supplies,1379.36,160.99,2
+12,2024-02-21,103,John Smith,North,Desk,Furniture,1738.45,232.96,2
+13,2024-04-12,104,Fatima Noor,West,Printer,Office Supplies,1902.26,333.47,9
+14,2024-06-05,105,Ahmed Hassan,East,Chair,Furniture,522.5,88.67,6
+15,2024-02-25,105,Ahmed Hassan,East,Printer,Office Supplies,1075.46,299.18,2
+16,2024-01-24,104,Fatima Noor,West,Printer,Office Supplies,124.21,28.53,4
+17,2024-05-16,101,Ali Khan,East,Laptop,Technology,709.14,165.3,4
+18,2024-02-02,104,Fatima Noor,North,Chair,Furniture,1298.47,383.27,3
+19,2024-03-21,102,Sara Ahmed,West,Desk,Furniture,1501.38,166.78,2
+20,2024-05-08,103,John Smith,South,Printer,Office Supplies,990.74,277.75,3
+21,2024-04-17,104,Fatima Noor,East,Desk,Furniture,1485.68,174.34,5
+22,2024-03-02,102,Sara Ahmed,North,Printer,Office Supplies,949.62,136.71,4
+23,2024-04-05,102,Sara Ahmed,West,Chair,Furniture,1593.5,367.15,6
+24,2024-02-02,102,Sara Ahmed,East,Desk,Furniture,1102.66,204.94,9
+25,2024-06-21,104,Fatima Noor,East,Printer,Office Supplies,133.88,17.49,8
+26,2024-05-29,101,Ali Khan,North,Printer,Office Supplies,1995.66,463.61,3
+27,2024-04-26,103,John Smith,South,Desk,Furniture,991.17,234.72,4
+28,2024-03-25,101,Ali Khan,West,Chair,Furniture,639.34,94.03,6
+29,2024-03-01,105,Ahmed Hassan,South,Desk,Furniture,223.5,55.75,7
+30,2024-04-15,103,John Smith,West,Laptop,Technology,1956.21,199.58,2
+31,2024-02-01,104,Fatima Noor,North,Desk,Furniture,916.23,232.65,3
+32,2024-04-20,103,John Smith,South,Printer,Office Supplies,1392.87,163.78,10
+33,2024-01-23,104,Fatima Noor,West,Mobile,Technology,272.01,33.33,9
+34,2024-01-07,101,Ali Khan,West,Mobile,Technology,1157.23,129.25,2
+35,2024-02-05,103,John Smith,East,Desk,Furniture,510.71,113.71,6
+36,2024-01-17,102,Sara Ahmed,South,Mobile,Technology,861.24,193.49,6
+37,2024-06-25,102,Sara Ahmed,East,Chair,Furniture,1586.71,163.65,5
+38,2024-01-27,104,Fatima Noor,East,Desk,Furniture,1517.41,394.7,10
+39,2024-06-11,105,Ahmed Hassan,North,Chair,Furniture,948.56,244.27,8
+40,2024-06-16,105,Ahmed Hassan,East,Chair,Furniture,1329.69,339.96,2
+41,2024-03-26,103,John Smith,North,Laptop,Technology,1201.2,280.96,5
+42,2024-03-26,101,Ali Khan,North,Printer,Office Supplies,355.97,94.65,5
+43,2024-02-13,102,Sara Ahmed,West,Printer,Office Supplies,1763.44,279.89,7
+44,2024-03-21,105,Ahmed Hassan,West,Laptop,Technology,1313.4,182.88,3
+45,2024-06-11,101,Ali Khan,East,Printer,Office Supplies,899.03,205.75,4
+46,2024-05-11,103,John Smith,North,Mobile,Technology,1389.33,201.53,9
+47,2024-02-10,101,Ali Khan,West,Printer,Office Supplies,1041.14,186.98,5
+48,2024-02-13,103,John Smith,East,Laptop,Technology,1538.19,340.25,5
+49,2024-03-21,103,John Smith,West,Laptop,Technology,641.32,174.92,9
+50,2024-03-30,102,Sara Ahmed,North,Mobile,Technology,1415.98,171.68,4
+51,2024-05-10,104,Fatima Noor,East,Printer,Office Supplies,493.83,79.6,3
+52,2024-05-05,103,John Smith,East,Chair,Furniture,1562.51,163.89,5
+53,2024-03-09,104,Fatima Noor,North,Mobile,Technology,228.82,64.47,9
+54,2024-05-04,103,John Smith,East,Desk,Furniture,502.01,138.23,2
+55,2024-02-10,103,John Smith,South,Desk,Furniture,1063.2,145.88,10
+56,2024-04-10,105,Ahmed Hassan,West,Chair,Furniture,594.82,154.45,6
+57,2024-01-12,101,Ali Khan,West,Printer,Office Supplies,1828.47,286.3,10
+58,2024-01-16,101,Ali Khan,East,Desk,Furniture,1271.54,300.18,5
+59,2024-04-17,103,John Smith,North,Desk,Furniture,396.59,48.35,3
+60,2024-06-27,101,Ali Khan,East,Chair,Furniture,1770.43,309.27,1
+61,2024-02-25,102,Sara Ahmed,North,Mobile,Technology,1692.93,433.06,2
+62,2024-01-09,103,John Smith,North,Mobile,Technology,844.59,138.17,2
+63,2024-03-09,104,Fatima Noor,South,Mobile,Technology,1287.85,210.56,7
+64,2024-03-01,105,Ahmed Hassan,East,Printer,Office Supplies,196.03,31.44,7
+65,2024-03-30,103,John Smith,West,Printer,Office Supplies,1125.6,160.28,6
+66,2024-04-29,104,Fatima Noor,West,Chair,Furniture,1055.34,132.17,2
+67,2024-02-03,103,John Smith,North,Laptop,Technology,676.84,107.6,8
+68,2024-05-29,104,Fatima Noor,West,Printer,Office Supplies,707.18,117.52,4
+69,2024-02-11,105,Ahmed Hassan,East,Laptop,Technology,334.05,74.15,10
+70,2024-02-01,102,Sara Ahmed,West,Desk,Furniture,589.48,59.41,10
+71,2024-04-19,101,Ali Khan,South,Printer,Office Supplies,314.38,42.98,6
+72,2024-06-05,104,Fatima Noor,West,Desk,Furniture,1506.75,271.96,4
+73,2024-06-12,103,John Smith,North,Mobile,Technology,1101.77,251.87,3
+74,2024-04-23,103,John Smith,South,Desk,Furniture,1060.7,290.5,8
+75,2024-03-04,101,Ali Khan,North,Printer,Office Supplies,285.65,38.59,2
+76,2024-04-01,105,Ahmed Hassan,North,Mobile,Technology,1292.32,274.87,4
+77,2024-05-16,105,Ahmed Hassan,North,Chair,Furniture,1362.91,396.37,5
+78,2024-03-24,104,Fatima Noor,West,Mobile,Technology,168.87,18.35,6
+79,2024-01-27,102,Sara Ahmed,West,Chair,Furniture,1230.67,136.82,4
+80,2024-02-28,102,Sara Ahmed,East,Laptop,Technology,430.06,88.48,8
+81,2024-02-05,104,Fatima Noor,West,Mobile,Technology,1649.52,221.96,10
+82,2024-04-10,105,Ahmed Hassan,South,Chair,Furniture,502.65,106.45,8
+83,2024-06-17,102,Sara Ahmed,East,Chair,Furniture,1430.43,331.32,10
+84,2024-03-29,105,Ahmed Hassan,West,Desk,Furniture,675.29,183.1,9
+85,2024-03-03,103,John Smith,North,Laptop,Technology,798.67,161.37,5
+86,2024-06-18,103,John Smith,South,Desk,Furniture,1460.67,195.15,5
+87,2024-04-26,102,Sara Ahmed,South,Laptop,Technology,1903.0,255.66,10
+88,2024-01-04,105,Ahmed Hassan,East,Printer,Office Supplies,1725.82,212.58,8
+89,2024-03-05,104,Fatima Noor,North,Desk,Furniture,1560.39,317.91,5
+90,2024-04-30,101,Ali Khan,South,Desk,Furniture,1506.0,358.47,7
+91,2024-01-30,105,Ahmed Hassan,East,Laptop,Technology,514.8,135.45,8
+92,2024-04-09,104,Fatima Noor,West,Printer,Office Supplies,409.88,57.76,5
+93,2024-02-25,102,Sara Ahmed,North,Desk,Furniture,1486.55,160.18,10
+94,2024-06-05,105,Ahmed Hassan,East,Printer,Office Supplies,1090.93,305.74,3
+95,2024-04-25,105,Ahmed Hassan,North,Printer,Office Supplies,956.18,169.16,5
+96,2024-01-01,105,Ahmed Hassan,North,Desk,Furniture,846.18,129.61,10
+97,2024-04-04,105,Ahmed Hassan,North,Printer,Office Supplies,466.31,74.86,7
+98,2024-05-24,104,Fatima Noor,East,Mobile,Technology,1257.37,280.53,10
+99,2024-05-14,104,Fatima Noor,South,Desk,Furniture,619.24,154.68,8
+100,2024-06-29,104,Fatima Noor,East,Chair,Furniture,192.88,40.65,3
